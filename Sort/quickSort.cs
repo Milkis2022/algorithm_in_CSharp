@@ -1,8 +1,7 @@
-// C# implementation of QuickSort
 
 using System;
 
-class GFG {
+class Program {
 
 	// A utility function to swap two elements
 	static void swap(int[] arr, int i, int j)
